@@ -1,0 +1,12 @@
+myprojectenv
+.git
+.env*
+!.env.example
+*.pyc
+.Python
+bin
+include
+lib
+.idea
+.vscode
+pip-selfcheck.json
